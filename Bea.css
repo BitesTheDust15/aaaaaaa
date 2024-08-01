@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(19, 19, 19);
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  
+   
+}
+
+.titulo {
+    text-align: center;
+}
+
+
+  img {
+    float: right;
+    height: 450px;
+    width: 450px;
+    position: relative;
+    right: 80px;
+    top: 120px;
+    border: 3px solid gray;
+
+  }
+  
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+h1 {
+  margin-left: 90px;
+    text-align: left;
+}
+ .nome {
+  font-size: 20px;
+  margin-left: 90px;
+  max-width: 1000px;
+ }
+
+ #lista {
+  margin-left: 70px;
+  font-size: 20px;
+  max-width: 1000px;
+
+ }
+
+ #subtitulo {
+  text-align: right;
+  top: 40px;
+  position: relative;
+  top: 460px;
+  left: 374px;
+  font-weight: bold;
+  
+ }
